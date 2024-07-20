@@ -1,0 +1,37 @@
+.btn{
+    border: 4px color(srgb red green blue);
+    border-radius: 12px;
+    background-color: rgb(255, 255, 255);
+    padding: 30px 50px ;
+    border-color: rgb(255, 0, 0);
+    font-family: monospace;
+    font-size: x-large;
+}
+.title{
+    display: flex;
+    font-family:cursive ;
+    justify-content: center;
+}
+.at{
+    background-color: rgb(0, 255, 157);
+    
+}
+.table{
+    background-color: rgb(255, 105, 105);
+    border: 20px rgb(112, 80, 255);
+}
+.btns{
+    padding: 2px 7px;
+    border: 10px rgb(255, 255, 255);
+    border-radius: 50px;
+    background-color: blue;
+    
+
+}
+.parrafo{
+    color: rgb(0, 0, 68);
+    font-size: 200%;
+}
+.foot{
+    background-color: rgb(0, 121, 90);
+}
